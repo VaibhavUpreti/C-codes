@@ -1,6 +1,8 @@
 # APGP
 
-prints- 
+ ![](https://github.com/VaibhavUpreti/C-codes/blob/main/Q10(APGP)/apgp.png)
+
+Actions- 
 - AP series
 - GP series
 - Sum of AP series
