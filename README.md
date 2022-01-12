@@ -4,8 +4,8 @@ Feel free to use the code :)
 
 First year Btech codes!
 
-Q-1: WAP to execute all the arithmetic operations on two variables.
-Q-2: WAP to find the output of given two equations:
+Q-1: WAP to execute all the arithmetic operations on two variables. \n
+Q-2: WAP to find the output of given two equations. \n
 Q-3: WAP to find whether the given number is even or odd.
 Q-4: WAP to check whether the given number is positive or negative
 Q-5: WAP to find the largest number among three numbers.
