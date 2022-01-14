@@ -18,3 +18,6 @@ Q-11: WAP to find factorial using recursion. <br />
 Q-12: WAP to find fibonacci series using recursion. <br />
 Q-13: WAP to print pascals triangle. <br />
 Q-14: WAP to find twos complement of a binary number. <br />
+Q-15: WAP to enter an alphabet and tell whether it is a consonant or vowel. <br />
+Q-16: WAP to find areas of various shapes(must be menu driven). <br />
+Q-17: WAP to find gross income from basic salary. <br />
